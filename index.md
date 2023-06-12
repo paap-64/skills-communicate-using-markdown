@@ -10,7 +10,7 @@
 
 ###### This is an `<h6>` header
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat]([https://octodex.github.com/images/yaktocat.png](https://giffiles.alphacoders.com/185/1854.gif))
 
 ```js
 const greeting = "I will get JavaScript syntax highlighting";
