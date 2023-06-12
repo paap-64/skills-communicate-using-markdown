@@ -12,5 +12,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-$ git init
+```js
+const greeting = "I will get JavaScript syntax highlighting";
+```
+
 
